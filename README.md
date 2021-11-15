@@ -10,7 +10,7 @@ This repo will list all open source projects I have studied until now
 * [libstdc++](https://github.com/gcc-mirror/gcc/tree/master/libstdc%2B%2B-v3)
 * [folly](https://github.com/facebook/folly)
 * [redis](https://github.com/redis/redis)
-    * redis-1.3
+    * redis-1.3 **[In Progress]**
 * [nginx](https://github.com/nginx/nginx)
 * [memcached](https://github.com/memcached/memcached)
 * [levedb](https://github.com/google/leveldb)
@@ -18,7 +18,7 @@ This repo will list all open source projects I have studied until now
 * [msgpack](https://github.com/msgpack/msgpack)
 * [ZThread-2.3.2](http://zthread.sourceforge.net/)
 * [git-0.01](https://github.com/zeroli/git-0.01)
-* google.tensorflow-0.12
+* google.tensorflow-0.12  **[In Progress]**
 * google.tensorflow-1.14
 * google.tensorflow-2.5
 * google.Chrome-2.0.169
